@@ -2,6 +2,8 @@
 
 Complete Vulkan setup for **macOS (MoltenVK)**, **Linux**, and **Windows** using the Vulkan SDK, GLFW, GLM, CMake, and VSCode.
 
+## Only works on VSCODE as it supports all platforms 
+
 ---
 
 ## Table of Contents
