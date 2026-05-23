@@ -4,6 +4,9 @@ Complete Vulkan setup for **macOS (MoltenVK)**, **Linux**, and **Windows** using
 
 ---
 
+#### You must take care of 3D party softwares by yourself by putting them manually into include and folder .accordingly 
+---
+
 ## Table of Contents
 
 1. [Project Structure](#1-project-structure)
